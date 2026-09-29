@@ -1,5 +1,5 @@
 import { lazy, Suspense, useCallback, useEffect, useState } from "react";
-import { Activity, Download, FileText, RefreshCw } from "lucide-react";
+import { Download, FileText, RefreshCw } from "lucide-react";
 import { api, ApiError } from "./api/client";
 import type {
   CampaignsResponse,
@@ -13,6 +13,7 @@ import { KpiCards } from "./components/KpiCards";
 import { CampaignTable } from "./components/CampaignTable";
 import { FindingsTable } from "./components/FindingsTable";
 import { ThresholdsPanel } from "./components/ThresholdsPanel";
+import { LogoMark } from "./components/Logo";
 import { EmptyState, ErrorState, LoadingState } from "./components/States";
 import type { Thresholds } from "./types";
 
@@ -96,9 +97,7 @@ export default function App() {
     <div className="min-h-screen">
       <header className="sticky top-0 z-20 border-b border-line bg-ink-900/80 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center gap-3 px-4 py-4">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-brand-500 to-brand-700 text-white shadow-glow">
-            <Activity className="h-5 w-5" />
-          </div>
+          <LogoMark />
           <div>
             <h1 className="text-lg font-semibold tracking-tight text-content">
               Campaign Ops <span className="text-brand-400">Copilot</span>

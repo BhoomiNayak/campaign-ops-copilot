@@ -1,5 +1,11 @@
 # Campaign Ops Copilot
 
+**Live demo:** https://campaign-ops-copilot.onrender.com/ &nbsp;·&nbsp;
+[API docs](https://campaign-ops-copilot.onrender.com/docs)
+
+> Hosted on a free tier — the first request after a period of inactivity may take
+> ~30–60s to wake the service. Just reload if the first load is slow.
+
 A lightweight, AI-ready email campaign analytics tool. Upload campaign CSV data (or load
 synthetic demo data), and the app calculates key metrics, detects anomalies using
 configurable deterministic rules, and generates evidence-based recommendations.

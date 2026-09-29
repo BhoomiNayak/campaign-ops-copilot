@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-ink text-content antialiased;
+  background-image:
+    radial-gradient(60rem 40rem at 80% -10%, rgba(108, 99, 255, 0.12), transparent 60%),
+    radial-gradient(50rem 30rem at -10% 0%, rgba(56, 189, 248, 0.06), transparent 55%);
+  background-attachment: fixed;
+}
+
+/* Dark form controls */
+select,
+input {
+  color-scheme: dark;
+}
+
+/* Thin scrollbars that fit the dark theme */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2b3849 transparent;
+}
+*::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #2b3849;
+  border-radius: 8px;
+}

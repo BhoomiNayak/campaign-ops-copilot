@@ -1,0 +1,129 @@
+date,campaign_name,domain,mailbox,sent,delivered,bounced,replies,opens,clicks
+2026-09-01,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,210,206,4,12,65,11
+2026-09-01,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,166,164,2,5,74,4
+2026-09-01,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,197,193,4,12,72,10
+2026-09-01,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,133,114,19,1,42,6
+2026-09-01,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,190,187,3,8,,
+2026-09-01,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,151,147,4,0,,
+2026-09-02,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,198,195,3,10,65,6
+2026-09-02,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,171,169,2,7,60,4
+2026-09-02,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,174,170,4,10,83,10
+2026-09-02,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,164,144,20,1,68,8
+2026-09-02,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,169,166,3,6,,
+2026-09-02,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,174,170,4,1,78,14
+2026-09-03,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,218,215,3,15,72,8
+2026-09-03,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,181,179,2,7,56,8
+2026-09-03,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,205,200,5,11,113,11
+2026-09-03,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,174,154,20,2,83,5
+2026-09-03,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,162,158,4,6,,
+2026-09-03,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,171,167,4,1,,
+2026-09-04,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,209,206,3,14,113,10
+2026-09-04,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,184,181,3,7,105,11
+2026-09-04,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,209,205,4,11,65,11
+2026-09-04,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,138,119,19,1,68,8
+2026-09-04,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,165,162,3,7,,
+2026-09-04,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,178,174,4,1,81,13
+2026-09-05,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,212,208,4,12,77,5
+2026-09-05,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,169,167,2,6,74,10
+2026-09-05,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,186,182,4,9,63,8
+2026-09-05,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,169,147,22,2,75,10
+2026-09-05,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,179,175,4,8,,
+2026-09-05,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,164,159,5,1,,
+2026-09-06,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,225,222,3,13,73,11
+2026-09-06,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,163,161,2,8,70,5
+2026-09-06,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,208,205,3,10,62,5
+2026-09-06,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,136,116,20,1,37,3
+2026-09-06,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,172,169,3,6,,
+2026-09-06,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,161,157,4,1,53,7
+2026-09-07,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,219,216,3,12,74,12
+2026-09-07,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,176,173,3,8,79,6
+2026-09-07,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,203,199,4,9,101,19
+2026-09-07,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,163,144,19,2,47,8
+2026-09-07,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,176,173,3,6,,
+2026-09-07,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,174,170,4,1,,
+2026-09-08,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,222,219,3,12,119,24
+2026-09-08,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,172,169,3,8,88,7
+2026-09-08,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,203,198,5,8,103,20
+2026-09-08,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,147,129,18,1,62,6
+2026-09-08,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,185,180,5,9,,
+2026-09-08,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,180,175,5,0,58,7
+2026-09-09,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,211,208,3,13,119,21
+2026-09-09,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,190,186,4,7,92,16
+2026-09-09,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,177,172,5,7,92,15
+2026-09-09,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,160,137,23,1,67,4
+2026-09-09,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,190,185,5,7,,
+2026-09-09,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,162,158,4,0,,
+2026-09-10,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,200,198,2,10,68,13
+2026-09-10,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,169,166,3,7,73,14
+2026-09-10,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,179,175,4,7,59,3
+2026-09-10,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,171,153,18,2,52,10
+2026-09-10,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,166,162,4,6,,
+2026-09-10,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,158,155,3,1,82,8
+2026-09-11,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,224,221,3,12,127,13
+2026-09-11,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,189,171,18,8,78,14
+2026-09-11,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,202,199,3,7,69,9
+2026-09-11,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,158,136,22,2,72,5
+2026-09-11,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,164,161,3,7,,
+2026-09-11,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,167,164,3,1,,
+2026-09-12,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,223,220,3,14,73,10
+2026-09-12,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,175,159,16,5,52,6
+2026-09-12,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,171,166,5,5,95,11
+2026-09-12,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,169,144,25,2,52,5
+2026-09-12,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,176,172,4,7,,
+2026-09-12,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,180,176,4,1,99,19
+2026-09-13,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,225,221,4,12,96,11
+2026-09-13,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,185,168,17,5,63,4
+2026-09-13,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,189,184,5,6,105,8
+2026-09-13,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,175,152,23,1,57,4
+2026-09-13,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,174,171,3,8,,
+2026-09-13,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,162,157,5,0,,
+2026-09-14,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,204,202,2,12,92,9
+2026-09-14,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,172,156,16,5,64,6
+2026-09-14,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,199,195,4,5,60,6
+2026-09-14,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,169,150,19,2,50,9
+2026-09-14,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,167,163,4,5,,
+2026-09-14,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,158,154,4,1,55,9
+2026-09-15,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,217,213,4,14,124,14
+2026-09-15,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,194,175,19,7,89,6
+2026-09-15,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,173,168,5,4,60,11
+2026-09-15,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,147,125,22,1,68,4
+2026-09-15,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,187,184,3,6,,
+2026-09-15,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,153,149,4,1,,
+2026-09-16,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,225,222,3,15,108,6
+2026-09-16,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,175,158,17,8,60,5
+2026-09-16,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,189,184,5,4,85,7
+2026-09-16,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,158,138,20,1,56,3
+2026-09-16,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,168,165,3,5,,
+2026-09-16,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,166,162,4,1,72,14
+2026-09-17,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,196,193,3,12,96,13
+2026-09-17,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,185,167,18,6,61,5
+2026-09-17,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,182,177,5,4,91,13
+2026-09-17,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,155,132,23,2,73,4
+2026-09-17,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,180,176,4,6,,
+2026-09-17,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,155,152,3,1,,
+2026-09-18,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,214,210,4,13,81,7
+2026-09-18,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,178,162,16,5,62,3
+2026-09-18,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,193,187,6,3,111,15
+2026-09-18,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,145,130,15,2,47,4
+2026-09-18,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,170,167,3,7,,
+2026-09-18,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,166,162,4,1,86,5
+2026-09-19,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,195,193,2,12,81,8
+2026-09-19,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,200,182,18,8,83,13
+2026-09-19,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,208,204,4,3,81,16
+2026-09-19,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,139,123,16,1,42,7
+2026-09-19,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,182,178,4,8,,
+2026-09-19,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,173,168,5,1,,
+2026-09-20,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,223,219,4,13,119,6
+2026-09-20,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,197,178,19,8,104,15
+2026-09-20,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,175,172,3,2,58,6
+2026-09-20,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,136,120,16,1,38,2
+2026-09-20,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,177,173,4,7,,
+2026-09-20,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,150,146,4,0,85,16
+2026-09-21,Seed Founders Q3,founders.acme-outbound.com,outreach@founders.acme-outbound.com,195,192,3,10,100,9
+2026-09-21,Enterprise ABM Tier 1,abm.acme-outbound.com,outreach@abm.acme-outbound.com,164,148,16,5,78,7
+2026-09-21,Reactivation Dormant,reactivate.acme-outbound.com,outreach@reactivate.acme-outbound.com,199,195,4,2,81,10
+2026-09-21,Cold List Purchased,coldlist.acme-outbound.com,outreach@coldlist.acme-outbound.com,173,153,20,1,75,6
+2026-09-21,Product Launch Blast,launch.acme-outbound.com,outreach@launch.acme-outbound.com,179,176,3,6,,
+2026-09-21,SMB Nurture,smb.acme-outbound.com,outreach@smb.acme-outbound.com,173,168,5,1,,
+2026-09-01,APAC Pilot,apac.acme-outbound.com,outreach@apac.acme-outbound.com,34,33,1,1,13,2
+2026-09-02,APAC Pilot,apac.acme-outbound.com,outreach@apac.acme-outbound.com,36,35,1,1,16,2

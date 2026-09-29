@@ -1,0 +1,10 @@
+# Render.com blueprint — deploys the whole app as one free Docker web service.
+# In the Render dashboard: New > Blueprint, point it at this repo.
+services:
+  - type: web
+    name: campaign-ops-copilot
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true
